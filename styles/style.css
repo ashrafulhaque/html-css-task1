@@ -1,0 +1,37 @@
+/* Bottom rounded section in the top of the page*/
+.cheers-section {
+    margin: 0 auto;
+    width: 380px;
+    height: 350px;
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom-left-radius: 180px;
+    border-bottom-right-radius: 180px;
+    background-color: #ffffff;
+    text-align: center;
+    line-height: 4px;
+}
+.cheers-section h1 {
+
+    padding-top: 150px;
+    font-weight: bolder;
+}
+.cheers-section img {
+    margin: 0 auto;
+}
+.wish-section {
+    margin: 0 auto;
+    width: 380px;
+    text-align: center;
+    line-height: 2px;
+}
+.wish-section p {
+    margin: 10px;
+}
+#btn-next{
+    margin-top: 20px;
+    padding: 12px 55px;
+    background-color: black;
+    color: #ffffff;
+    border: none;
+    text-decoration: none;
+}
