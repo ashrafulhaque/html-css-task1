@@ -13,8 +13,12 @@
 .cheers-section h1 {
 
     padding-top: 120px;
-    font-weight: bolder;
+    font-weight: 800;
     margin: 0px;
+}
+.cheers-section p {
+    margin: 0;
+    padding: 5px;
 }
 .cheers-section img {
     margin: 0 auto;
